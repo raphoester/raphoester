@@ -13,7 +13,7 @@ My experience with the Go language:
 - 10,000+ hours of practice
 - 14 personal projects 
 
-<!--- [![Raphoester's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphoester)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphoester)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I can help you with : 
