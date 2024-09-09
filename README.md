@@ -15,6 +15,8 @@ My experience with the Go language:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphoester)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66a21c1e23c186c28d71acf0?variant=dark)](https://roadmap.sh)
+
 
 I can help you with : 
 - Developing reliable, scalable and bug-free backend applications
