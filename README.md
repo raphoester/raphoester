@@ -11,7 +11,6 @@ My experience with the Go language:
 - Over 3 years of professional experience. (mainly in start-ups)
 - 8 years of learning (since 2016)
 - 10,000+ hours of practice
-- 14 personal projects 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphoester)](https://github.com/anuraghazra/github-readme-stats)
 
