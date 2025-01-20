@@ -8,8 +8,8 @@ Want to create a high-performance, bug-free app to meet a business need?
 I'm an expert Go (Golang) backend developer.
 
 My experience with the Go language: 
-- Over 3 years of professional experience. (mainly in start-ups)
-- 8 years of learning (since 2016)
+- Over 4 years of professional experience. (mainly in start-ups)
+- 9 years of learning (since 2016)
 - 10,000+ hours of practice
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphoester)](https://github.com/anuraghazra/github-readme-stats)
