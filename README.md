@@ -3,8 +3,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphoester" alt="raphoester" /></a> </p>
 
 Want to create the app of your dreams? 
+
 The one your business has been craving for for years?
+
 I'm the man you need.
+
 
 I'm an expert Go (Golang) backend developer.
 
