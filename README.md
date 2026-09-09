@@ -6,7 +6,7 @@ The one your business has been craving for for years?
 
 I'm the man you need.
 
-![metrics](https://metrics.lecoq.io/username)
+![metrics](https://metrics.lecoq.io/raphoester)
 
 I'm an expert Go (Golang) backend developer.
 
