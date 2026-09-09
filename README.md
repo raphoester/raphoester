@@ -1,13 +1,12 @@
 ## Raphaël Oester
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphoester" alt="raphoester" /></a> </p>
-
 Want to create the app of your dreams? 
 
 The one your business has been craving for for years?
 
 I'm the man you need.
 
+![metrics](https://metrics.lecoq.io/username)
 
 I'm an expert Go (Golang) backend developer.
 
@@ -15,8 +14,6 @@ My experience with the Go language:
 - Over 5 years of professional experience. (mainly in start-ups)
 - 10 years of learning (since 2016)
 - 10,000+ hours of practice
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphoester)](https://github.com/anuraghazra/github-readme-stats)
 
 I can help you with : 
 - Developing reliable, scalable and bug-free backend applications
